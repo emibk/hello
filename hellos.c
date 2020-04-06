@@ -5,6 +5,7 @@ int main()
 	printf("nume persoana:");
 	scanf("%s",nume);
 	printf("Hello, %s",nume);
+	printf("Hello, Emilia");
 	return 0;
 
 }
